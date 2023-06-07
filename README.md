@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hokane
+- 👀 I’m interested in python, Web development and some other stuff
+- 🌱 I’m currently learning how to work on pygame
+- 📫 How to reach me https://www.instagram.com/hoka.ne & https://t.me/MeDoSleep
